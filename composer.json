@@ -3,13 +3,13 @@
     "description": "A Document Management System for Symfony 2",
     "type": "symfony-bundle",
     "require": {
-        "symfony/symfony": "2.3.*",
+        "symfony/symfony": "2.4.*",
         "leafo/lessphp": "0.3.*",
         "imagine/imagine": "0.*",
         "braincrafted/bootstrap-bundle": "*",
         "stof/doctrine-extensions-bundle": "1.1.*",
         "doctrine/doctrine-fixtures-bundle": "2.2.*",
-        "phansys/getid3": "2.1.*@dev"
+        "phansys/getid3": "dev-master"
     },
     "require-dev": {
         "nelmio/alice": "dev-master",
