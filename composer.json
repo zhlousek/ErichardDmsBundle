@@ -1,5 +1,5 @@
 {
-    "name": "erichard/dms-bundle",
+    "name": "zerichard/dms-bundle",
     "description": "A Document Management System for Symfony 2",
     "type": "symfony-bundle",
     "require": {
